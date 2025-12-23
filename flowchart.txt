@@ -1,0 +1,30 @@
+START
+  ↓
+User Inputs Message
+  ↓
+Input Validation
+  ↓
+Text Preprocessing
+ (Lowercasing, Tokenization,
+  Stopword Removal, Lemmatization)
+  ↓
+Feature Extraction
+ (TF-IDF / Word Embeddings)
+  ↓
+Intent Classification
+ (ML / DL Model)
+  ↓
+Entity Recognition (NER)
+  ↓
+Decision Logic
+ (Rule-based / Confidence Check)
+  ↓
+Response Generation
+ (Predefined / Dynamic)
+  ↓
+Post-processing
+ (Formatting, Emojis, Grammar)
+  ↓
+Display Response to User
+  ↓
+END
