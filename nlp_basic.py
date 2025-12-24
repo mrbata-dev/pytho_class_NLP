@@ -32,4 +32,4 @@ lemmatizer_words = [lemmatizer.lemmatize(word, pos='v') for word in tokens]
 print("lemmatizer--->", lemmatizer_words)
 
 
-from transformers import pipeline
+

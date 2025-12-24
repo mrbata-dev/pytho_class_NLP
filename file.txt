@@ -1,1 +1,44 @@
-Hello world
+Q: What is this chatbot used for?
+A: This chatbot is designed to answer common questions and provide helpful information to users.
+
+Q: How does the chatbot work?
+A: The chatbot uses natural language processing to understand questions and generate appropriate answers.
+
+Q: Who can use this chatbot?
+A: Anyone can use this chatbot to ask questions and get instant responses.
+
+Q: Is this chatbot available 24/7?
+A: Yes, the chatbot is available at all times and can respond instantly.
+
+Q: Does the chatbot store personal data?
+A: No, the chatbot does not store or share personal user data.
+
+Q: What type of questions can I ask?
+A: You can ask general questions related to the system, services, or frequently asked topics.
+
+Q: Can the chatbot understand multiple languages?
+A: Currently, the chatbot supports English language queries.
+
+Q: What should I do if the chatbot gives a wrong answer?
+A: You can rephrase your question or contact support for further help.
+
+Q: Is internet connection required to use the chatbot?
+A: Yes, an active internet connection is required.
+
+Q: Can I use this chatbot on mobile devices?
+A: Yes, the chatbot works on both mobile and desktop devices.
+
+Q: How accurate are the chatbot responses?
+A: The chatbot provides answers based on trained data, so accuracy may vary.
+
+Q: Can this chatbot learn from new questions?
+A: Some versions of the chatbot can be improved by retraining with new data.
+
+Q: Is the chatbot free to use?
+A: Yes, this chatbot is free to use for basic features.
+
+Q: How do I report a technical issue?
+A: You can report issues through the contact or feedback section.
+
+Q: Can this chatbot replace human support?
+A: The chatbot assists users but does not completely replace human support.
