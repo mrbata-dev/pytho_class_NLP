@@ -1,0 +1,26 @@
+<annotation>
+	<folder>books</folder>
+	<filename>000047.jpeg</filename>
+	<path>/home/secret/Documents/pythonVirtualEnv/book_images/books/000047.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2736</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1843</xmin>
+			<ymin>1774</ymin>
+			<xmax>2704</xmax>
+			<ymax>3159</ymax>
+		</bndbox>
+	</object>
+</annotation>
