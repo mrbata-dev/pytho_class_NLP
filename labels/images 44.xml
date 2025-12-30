@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelling</folder>
+	<filename>images (4).jpeg</filename>
+	<path>C:\Users\ACER\Pictures\labelling\images (4).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>45</ymin>
+			<xmax>225</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

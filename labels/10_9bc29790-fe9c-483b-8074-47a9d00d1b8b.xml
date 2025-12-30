@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelling</folder>
+	<filename>10_9bc29790-fe9c-483b-8074-47a9d00d1b8b.webp</filename>
+	<path>C:\Users\ACER\Pictures\labelling\10_9bc29790-fe9c-483b-8074-47a9d00d1b8b.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>985</width>
+		<height>985</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>355</ymin>
+			<xmax>924</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+</annotation>

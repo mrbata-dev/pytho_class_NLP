@@ -1,0 +1,26 @@
+<annotation>
+	<folder>male_portrait</folder>
+	<filename>_MZRpIIOJeE.jpg</filename>
+	<path>D:\Intership\data\male_portrait\_MZRpIIOJeE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>80</ymin>
+			<xmax>1077</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+</annotation>

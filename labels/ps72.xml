@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Female</folder>
+	<filename>1LB_KjFr9EM.jpg</filename>
+	<path>D:\Intership\data\Female\1LB_KjFr9EM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>337</xmin>
+			<ymin>108</ymin>
+			<xmax>867</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

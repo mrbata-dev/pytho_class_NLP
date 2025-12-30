@@ -1,0 +1,26 @@
+<annotation>
+	<folder>medium size ceiling fan</folder>
+	<filename>Image_71.jpg</filename>
+	<path>D:\machinelearning\fans\medium size ceiling fan\Image_71.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fan1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>278</ymin>
+			<xmax>1439</xmax>
+			<ymax>1166</ymax>
+		</bndbox>
+	</object>
+</annotation>

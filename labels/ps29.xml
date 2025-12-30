@@ -1,0 +1,26 @@
+<annotation>
+	<folder>male_portrait</folder>
+	<filename>0D-OIvEOsRc.jpg</filename>
+	<path>D:\Intership\data\male_portrait\0D-OIvEOsRc.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>50</ymin>
+			<xmax>933</xmax>
+			<ymax>802</ymax>
+		</bndbox>
+	</object>
+</annotation>

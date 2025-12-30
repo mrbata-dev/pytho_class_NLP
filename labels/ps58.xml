@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Female</folder>
+	<filename>_oDl-W4Wj7I.jpg</filename>
+	<path>D:\Intership\data\Female\_oDl-W4Wj7I.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>26</ymin>
+			<xmax>1080</xmax>
+			<ymax>1615</ymax>
+		</bndbox>
+	</object>
+</annotation>

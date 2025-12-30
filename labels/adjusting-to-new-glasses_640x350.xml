@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelling</folder>
+	<filename>adjusting-to-new-glasses_640x350.webp</filename>
+	<path>C:\Users\ACER\Pictures\labelling\adjusting-to-new-glasses_640x350.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>351</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>97</ymin>
+			<xmax>415</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

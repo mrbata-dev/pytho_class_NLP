@@ -11,7 +11,7 @@ def load_document(path):
         # print("file read====", f.read())
         return f.read()
     
-text = load_document('/home/secret/Documents/pythonVirtualEnv/file.txt')
+# text = load_document('/home/secret/Documents/pythonVirtualEnv/file.txt')
 
 #Step 2: Parse Q&A Pairs
 def parse_qa_pairs(text):
@@ -28,8 +28,8 @@ def parse_qa_pairs(text):
         qa_pairs.append((q.strip(), a.strip()))
     return qa_pairs
 
-print(parse_qa_pairs(text))
-parse_qa_pairs(text)
+# print(parse_qa_pairs(text))
+# parse_qa_pairs(text)
 
 
 def build_index(questions, model):

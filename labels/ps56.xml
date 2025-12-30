@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Female</folder>
+	<filename>_MNAn2htMUk.jpg</filename>
+	<path>D:\Intership\data\Female\_MNAn2htMUk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>864</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>191</ymin>
+			<xmax>763</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

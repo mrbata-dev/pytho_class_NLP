@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bagdataset</folder>
+	<filename>download (5).jpg</filename>
+	<path>C:\Users\acer\Desktop\MachineLearning\Bagdataset\download (5).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>26</ymin>
+			<xmax>192</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

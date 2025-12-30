@@ -1,0 +1,26 @@
+<annotation>
+	<folder>labelling</folder>
+	<filename>0a310868a125a3d8fc4c55f0a5f75197.jpg_720x720q80.jpg</filename>
+	<path>C:\Users\ACER\Pictures\labelling\0a310868a125a3d8fc4c55f0a5f75197.jpg_720x720q80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>158</ymin>
+			<xmax>720</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>male_portrait</folder>
+	<filename>_bWE3_hhIeM.jpg</filename>
+	<path>D:\Intership\data\male_portrait\_bWE3_hhIeM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>80</ymin>
+			<xmax>1080</xmax>
+			<ymax>1134</ymax>
+		</bndbox>
+	</object>
+</annotation>

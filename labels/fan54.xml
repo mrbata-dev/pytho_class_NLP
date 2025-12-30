@@ -1,0 +1,26 @@
+<annotation>
+	<folder>medium size ceiling fan</folder>
+	<filename>Image_97.webp</filename>
+	<path>D:\machinelearning\fans\medium size ceiling fan\Image_97.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fan1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>146</ymin>
+			<xmax>983</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+</annotation>

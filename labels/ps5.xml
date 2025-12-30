@@ -1,0 +1,26 @@
+<annotation>
+	<folder>male_portrait</folder>
+	<filename>_4X8tCh1uZY.jpg</filename>
+	<path>D:\Intership\data\male_portrait\_4X8tCh1uZY.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1620</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>222</ymin>
+			<xmax>1080</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>

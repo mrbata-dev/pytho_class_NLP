@@ -1,0 +1,26 @@
+<annotation>
+	<folder>small ceiling fan</folder>
+	<filename>Image_34.jpg</filename>
+	<path>D:\machinelearning\fans\small ceiling fan\Image_34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1490</width>
+		<height>1245</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fan1</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>2</ymin>
+			<xmax>1490</xmax>
+			<ymax>1245</ymax>
+		</bndbox>
+	</object>
+</annotation>
