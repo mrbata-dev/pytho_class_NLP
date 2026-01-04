@@ -1,0 +1,9 @@
+person
+car
+chair
+bottle
+bird
+sofa
+cycle
+horse
+bus

@@ -80,7 +80,7 @@ def label_encoding(x):
     except KeyError:
         return -1
 df['id'] = df['name'].apply(label_encoding)
-# print(df)
+print(df)
 df
 
 images = df['filename'].unique()
@@ -146,3 +146,6 @@ filename_series_train.apply(lambda filename: save_def(filename, train_folder, gr
 
 filename_series_test = pd.Series(groupby_obj_test.groups.keys())
 filename_series_test.apply(lambda filename: save_def(filename, train_folder, groupby_obj_test))
+
+
+# Import yolo
